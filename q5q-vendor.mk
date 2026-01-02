@@ -322,6 +322,7 @@ PRODUCT_PACKAGES += \
     lib_SamsungRec_08020 \
     lib_SoundAlive_play_plus_ver500 \
     lib_lvacfs \
+    libagm \
     libar-pal \
     libarcsoft_udc_enhancement \
     libbluetooth_audio_session_aidl_qti \
