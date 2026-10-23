@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/q5q/proprietary/vendor/etc/init/vendor.samsung.rilchip.qcom.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung.rilchip.qcom.rc \
     vendor/samsung/q5q/proprietary/vendor/etc/init/vendor.samsung.rild.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung.rild.rc \
     vendor/samsung/q5q/proprietary/vendor/etc/input-port-associations.xml:$(TARGET_COPY_OUT_VENDOR)/etc/input-port-associations.xml \
+    vendor/samsung/q5q/proprietary/vendor/etc/media_profiles_V1_0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_V1_0.xml \
     vendor/samsung/q5q/proprietary/vendor/etc/sensors/config/kailua_ak991x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_ak991x_0.json \
     vendor/samsung/q5q/proprietary/vendor/etc/sensors/config/kailua_default_sensors.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_default_sensors.json \
     vendor/samsung/q5q/proprietary/vendor/etc/sensors/config/kailua_dynamic_sensors_template.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_dynamic_sensors_template.json \
